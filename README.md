@@ -4,7 +4,7 @@ Free-To-Play is a website show informations about big amount of games
 
 ## Tech Stack
 
-Next.js , React , TypeScript 
+Next.js , React , TypeScript , Redux Toolkit , MaterialUI5
 
 ## Tech Stack
 live demo :
